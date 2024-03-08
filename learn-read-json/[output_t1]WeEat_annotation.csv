@@ -1,0 +1,32 @@
+scene_name,start_time,end_time,duration-2,food_focus_existing,Youtuber_existing,eating_place_existing,description
+scene_1,1,52,52,0,0,0,Introduction to video: driving scene
+scene_2,52,57,5,0,0,0,Technical issue: they had a flat tire 
+scene_3,57,64,7,0,0,0,Technical issue resolved: they pumped the tire back
+scene_4,64,81,17,0,0,0,Driving scene
+scene_5,81,95,14,1,0,0,Dish 1: Bo Luc Lac (at Pho Hai Van restaurant)
+scene_6,95,99,4,0,0,1,Outside Gongcha store
+scene_7,99,109,10,0,0,1,Indise Gongcha store
+scene_8,109,111,2,1,0,0,Dish 2: Green Milk Tea
+scene_9,111,113,2,1,0,1,Green Milk Tea with Gongcha store behind
+scene_10,113,116,3,1,0,0,Poking straw in Green Milk Tea
+scene_11,116,118,2,1,0,1,Green Milk Tea with Gongcha store behind
+scene_12,118,127,9,0,0,0,Driving scene at Bellaire Bound
+scene_13,127,129,2,0,0,1,Outside MIGO Saigon Food Street restaurant
+scene_14,129,137,8,0,0,1,Inside MIGO restaurant scene 1
+scene_15,137,146,9,0,0,1,Inside MIGO restaurant scene 2
+scene_16,146,153,7,0,0,1,Inside MIGO restaurant scene 3
+scene_17,153,157,4,0,0,0,Virtual MIGO menu
+scene_18,157,170,13,1,0,0,"Dish 3-4-5: Sautee corn, Grilled Gizzards, Salted Egg Milk Tea"
+scene_19,170,176,6,1,0,0,Dish 3: Sautee corn
+scene_20,176,189,13,1,0,0,Dish 4: Grilled Gizzards
+scene_21,189,203,14,1,0,0,Overview of the food so far
+scene_22,203,237,34,1,0,0,Dish 5: Hu Tieu Go
+scene_23,237,253,16,0,0,0,Driving scene
+scene_24,253,260,7,0,0,1,Outside of ONE Hot Pot & Grill
+scene_25,260,266,6,0,0,1,Inside ONE Hot Pot & Grill
+scene_26,266,311,44,0,0,0,Overview of ONE's menu
+scene_27,311,436,125,1,0,0,"Dish 6-7-8: Grilled Sautee Squid Skewers, Grilled Scallop with Onions, Steamed Clams in Lemongrass"
+scene_28,436,673,238,1,0,0,Eating dish 6-7-8
+scene_29,673,871,198,0,0,0,Eating dish 8: Steamed Clams in Lemongrass
+scene_30,871,882,11,1,0,0,Outro: Night driving scene
+scene_31,882,893,11,0,0,0,Photo of Hu Tieu Go

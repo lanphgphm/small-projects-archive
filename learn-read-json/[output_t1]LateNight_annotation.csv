@@ -1,0 +1,166 @@
+scene_name,start_time,end_time,duration,food_focus_existing,Youtuber_existing,eating_place_existing,description
+scene_1,1,1,1,0,0,1,restaurant scene 
+scene_2,1,2,1,0,1,0,youtuber eatting squid 
+scene_3,2,3,1,0,1,0,the girl eating  squid 
+scene_4,3,4,1,0,1,0,the girl is smile 
+scene_5,4,6,2,1,0,0,the teeth of squid 
+scene_6,6,7,1,0,1,0,surprised youtuber
+scene_7,7,8,1,1,1,0,The girl holding the squid's tooth
+scene_8,8,10,2,0,1,0,YouTuber looking at the dish  
+scene_9,10,11,1,0,0,0,dark screen 
+scene_10,11,17,6,0,0,0,Introduction 
+scene_11,17,18,1,0,0,0,street in Vietnam 
+scene_12,18,20,2,0,0,0,street with a lot of people 
+scene_13,20,21,1,0,0,0,Cut Chien Bo board 
+scene_14,21,22,1,0,1,0,youtuber openning the box 
+scene_15,22,23,1,1,0,0,frogs 
+scene_16,23,25,2,0,0,0,two people are drinking beer 
+scene_17,25,27,2,1,0,0,grilled squid
+scene_18,27,29,2,1,0,0,Meat skewers
+scene_19,29,30,1,0,1,0,the girl is eating 
+scene_20,30,31,1,0,1,0,youtuber is eating 
+scene_21,31,33,2,1,0,0,squid ink cook with pepper
+scene_22,33,34,1,1,0,0,Grilled bird
+scene_23,34,36,2,0,0,0,a frog 
+scene_24,36,37,1,0,0,0,cut the skin of the frog 
+scene_25,37,38,1,0,0,0,put the skin of the frog into the oil 
+scene_26,38,39,1,0,0,0,fried the skin of the frog 
+scene_27,39,40,1,0,1,1,youtuber beside food trolley
+scene_28,40,41,1,0,1,0,surprised youtuber
+scene_29,41,43,2,0,0,1,her stall sells trolleys
+scene_30,43,44,1,1,0,0,grilled squid 
+scene_31,44,45,1,0,0,0,her stall sells trolleys
+scene_32,45,47,2,0,0,0,people cheers 
+scene_33,47,48,1,0,0,0,fried bird seller
+scene_34,48,51,3,0,0,0,club 
+scene_35,51,54,3,0,0,0,the scene in front of the car on the street
+scene_36,54,57,3,0,0,0,scene behind the car on the street 
+scene_37,57,59,2,0,0,0,Saigon at night the scene in front of the car driving
+scene_38,59,60,1,0,0,0,Saigon at night the scene behind the car running
+scene_39,60,63,3,0,0,0,Saigon at night the scene in front of the car driving
+scene_40,63,64,1,0,0,0,"The sign ""Cut Chien Bo"" on a street"
+scene_41,64,66,2,0,0,0,people cheers 
+scene_42,66,71,5,0,0,0,boy spitting fire on the street
+scene_43,71,74,3,0,1,1,youtuber on the street 
+scene_44,74,76,2,0,1,0,"YouTuber next to the vending cart ""Fried quail with butter"""
+scene_45,76,77,1,0,1,0,the girl is saying 
+scene_46,77,79,2,0,1,0,the boy is seeing 
+scene_47,79,80,1,1,0,0,"chicken fried, zoom in "
+scene_48,80,81,1,1,0,0,"chicken fried, zoom out "
+scene_49,81,84,3,0,0,0,the seller is mixed the chicken 
+scene_50,84,86,2,0,1,0,youtubers are drinking beer 
+scene_51,86,89,3,1,0,0,fry chicken
+scene_52,89,91,2,1,0,0,fried chicken in a pan
+scene_53,91,92,1,0,0,0,the saler is fried the chicken 
+scene_54,92,94,2,1,0,0,fried chicken
+scene_55,94,95,1,1,0,0,pick the bird up to fry
+scene_56,95,100,5,0,1,0,youtuber talk about the dish of bird 
+scene_57,100,102,2,0,1,0,youtubers are eating 
+scene_58,102,104,2,0,1,0,youtuber is sitting on the sofa 
+scene_59,104,105,1,0,1,0,youtuber catch the dish 
+scene_60,105,106,1,0,1,0,youtuber holding menu
+scene_61,106,108,2,0,1,0,youtuber is talking 
+scene_62 ,108,112,4,0,0,0,the sale is fried the bird 
+scene_63,112,114,2,1,0,0,Fried bird 
+scene_64,114,116,2,1,0,0,the dish of bird 
+scene_65,116,122,6,0,1,0,youtubers are eatting 
+scene_66,122,126,4,1,0,0,Dishes made from birds
+scene_67,126,134,8,0,1,0,youtubers are eating and saying 
+scene_68,134,135,1,1,0,0,the head of the bird 
+scene_69,135,141,6,0,1,0,youtubers try to eat the head of bird 
+scene_70,141,144,3,1,0,0,the head of the bird 
+scene_71,144,150,6,1,0,0,youtubers is talking 
+scene_72 ,150,152,2,0,0,0,beer and street 
+scene_73,152,157,5,0,0,0,the table with dishes and beers 
+scene_74,157,160,3,0,0,0,a man is drinking 
+scene_75,160,164,4,0,0,0,people cheers 
+scene_76,164,170,6,1,0,0,"small bites, something meaty"
+scene_77,170,171,1,1,0,0,chewy hotpot
+scene_78,171,173,2,1,0,0,barbeque 
+scene_79,173,176,3,1,0,0,"""Kèo"" fish "
+scene_80,176,179,3,1,0,0,grilled oysters
+scene_81,179,183,4,0,0,0,people are drinking beer 
+scene_82,183,186,3,1,0,0,"hot pot of ""Kèo""fish "
+scene_83,186,189,3,1,0,0,"scrambled eggs, ""kèo""fish, squid, braised meat"
+scene_84,189,190,1,0,0,0,"Ink signboard ""mực 280"""
+scene_85,190,192,2,0,0,1,Street restaurant
+scene_86,192,193,1,0,0,0,Man grilling squid
+scene_87,193,195,2,0,0,0,"Ink signboard ""mực 280"""
+scene_88,195,196,1,0,0,0,Two people talking in front of the dining table
+scene_89,196,203,7,1,0,0,Grilled squid
+scene_90,203,215,12,1,0,0,Fried squid
+scene_91,215,218,3,0,1,1,Youtubers are talking 
+scene_92,218,225,7,1,0,0,Fried squid
+scene_93,225,237,12,0,1,0,Youtubers are eating 
+scene_94,237,240,3,1,0,0,The teeth of  squid 
+scene_95,240,242,2,0,11,0,Youtubers are smiling
+scene_96,242,243,1,1,0,0,The teeth of squid 
+scene_97,243,254,1,0,1,0,Youtuber's are chatting about the way to bỏ the teeth of squid 
+scene_98,254,269,15,1,0,0,Fried squid
+scene_99,269,281,2,0,1,0,Youtubers are eating fried squid 
+scene_100,281,283,2,1,0,0,The food in Korea 
+scene_101,283,284,1,1,0,0,Soju wine
+scene_102,284,285,1,0,0,0,Koreans drink Soju
+scene_103,285,309,24,0,1,0,Vietnamese people drink beer
+scene_104,309,311,2,0,0,0,The street in Vietnam 
+scene_105,311,325,14,0,0,1,Food store in Vietnam 
+scene_106,325,328,3,0,0,0,The man is cooking 
+scene_107,328,329,1,0,0,0,The man is catching the frog 
+scene_108,329,334,5,0,0,0,"Signage ""248 Truong Sa Quan"""
+scene_109,334,337,4,0,1,0,Youtuber share his feeling about the style of street food in Vietnam
+scene_110,337,340,3,0,0,1,Street food store 
+scene_111,340,345,5,0,1,0,Where live seafood is stored
+scene_112,345,346,1,0,0,0,Frogs 
+scene_113,346,348,2,0,1,0,Youtubers is talking 
+scene_114,348,351,3,0,0,0,The Eels
+scene_115,351,355,4,0,1,0,Youtuber is surprised about the equipment used to contain the animals
+scene_116,355,356,1,0,0,0,"""Tra"" fish"
+scene_117,356,359,3,0,0,0,Youtuber talk about the place people use to put the fish into 
+scene_118,359,360,1,0,0,0,Fishes 
+scene_119,360,365,5,0,0,0,The Eels
+scene_120,365,373,8,0,1,0,Frogs 
+scene_121,373,374,1,1,0,0,Food made from frogs
+scene_122,374,376,2,0,0,0,Frog processing
+scene_123,376,409,33,0,1,0,Youtubers are talking with the owner of the frog store 
+scene_124,409,428,19,1,1,0,Youtubers enjoy the dishes made by frogs. 
+scene_125,428,431,3,0,1,0,The menu of the Frog store 
+scene_126,431,435,4,1,0,0,Some food make from frogs 
+scene_127,435,440,5,0,1,1,Street restaurant
+scene_128,440,442,2,1,0,0,Dishes from all parts of the frog
+scene_129,442,459,17,1,0,0,Frog curry 
+scene_130,459,470,11,1,0,0,Stir-fried frog with chives 
+scene_131,470,471,1,0,1,0,Youtuber enjoys the dish 
+scene_132,471,478,7,1,0,0,Stir-fried frog with chives and chives
+scene_133,478,481,3,1,0,0,stir-fried frog stormachs 
+scene_134,481,490,9,1,0,0,The way to make stir-fried frog stormachs 
+scene_135,490,492,2,0,1,0,Youtubers talk about the stir-fried frog stormachs 
+scene_136,492,496,4,1,0,0,stir-fried frog stormachs 
+scene_137,496,506,10,0,1,0,Youtubers enjoys the stir-fried frog stomachs 
+scene_138,506,512,6,0,1,0,Youtubers talk about the stir-fried frog stomachs 
+scene_139,512,518,6,1,0,0,"Stir-fried frog stomachs , and other dishes"
+scene_140,518,520,2,0,0,0,The man catches the frog 
+scene_141,520,552,32,0,0,0,Bui Vien Walking Street
+scene_142,552,561,9,1,0,0,Eggs 
+scene_143,561,596,35,0,1,0,Youtubers enjoys the eggs 
+scene_144,596,602,6,0,0,0,Street in Vietnam 
+scene_145,602,604,2,1,0,0,Grilled squid
+scene_146,604,605,1,1,0,0,Sea food 
+scene_147,605,607,2,1,0,0,Colorful sticky rice
+scene_148,607,621,14,1,0,0,Fish ball 
+scene_149,621,631,10,0,1,0,Street food 
+scene_150,631,667,36,1,1,0,Fish ball 
+scene_151,667,669,2,0,0,0,Street in Vietnam 
+scene_152,669,705,36,0,0,0,Fried chicken 
+scene_153,705,713,8,0,0,0,Street in Vietnam 
+scene_154,713,715,2,0,1,0,Youtubers are talking together
+scene_155,715,745,30,1,0,0,Fried fish fins
+scene_156,745,746,1,1,0,0,"Fish ball, fried corn, fried chicken"
+scene_157,746,758,12,0,0,0,People are drinking beer 
+scene_158,758,767,9,1,0,0,"Fried chicken, teeth of squid, fish ball, the skin of frogs, 
+fried fish fins, braised fish with pepper, fried bird's head."
+scene_159,767,770,3,0,1,0,Youtubers are drinking beer 
+scene_160,770,776,6,1,0,0,"Fish ball, fried corn, fried chicken"
+scene_161,776,781,5,1,1,0,Fried Frogs 
+scene_162,781,782,1,0,0,0,The Frog
+scene_163,782,788,6,0,0,0,Flags 
+scene_164,788,897,109,0,0,0,review for the next session and finish

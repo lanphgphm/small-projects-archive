@@ -1,0 +1,1746 @@
+{
+    "objects": {
+        "scence_1": [
+            [
+                "beacon, lighthouse, beacon light, pharos",
+                6.945708010185626
+            ],
+            [
+                "slot, one-armed bandit",
+                4.3336529759690166
+            ],
+            [
+                "lipstick, lip rouge",
+                4.228809339576401
+            ]
+        ],
+        "scence_2": [
+            [
+                "palace",
+                2.678795539404746
+            ],
+            [
+                "beacon, lighthouse, beacon light, pharos",
+                1.0935414056584705
+            ],
+            [
+                "slot, one-armed bandit",
+                0.6753358821224538
+            ]
+        ],
+        "scence_3": [
+            [
+                "tiger beetle",
+                0.710945144877769
+            ],
+            [
+                "palace",
+                0.5674569991242606
+            ],
+            [
+                "hognose snake, puff adder, sand viper",
+                0.5660421910579316
+            ]
+        ],
+        "scence_4": [
+            [
+                "slot, one-armed bandit",
+                4.1367308322078316
+            ],
+            [
+                "beacon, lighthouse, beacon light, pharos",
+                1.706331755471183
+            ],
+            [
+                "hognose snake, puff adder, sand viper",
+                0.6948016928508878
+            ]
+        ],
+        "scence_5": [
+            [
+                "pole",
+                9.91736720811241
+            ],
+            [
+                "wallet, billfold, notecase, pocketbook",
+                1.0765072322028573
+            ],
+            [
+                "slot, one-armed bandit",
+                0.8223514933415572
+            ]
+        ],
+        "scence_6": [
+            [
+                "pole",
+                1.4791207890812075
+            ],
+            [
+                "racket, racquet",
+                0.617649869305751
+            ],
+            [
+                "wallet, billfold, notecase, pocketbook",
+                0.1946691961493343
+            ]
+        ],
+        "scence_7": [
+            [
+                "white stork, Ciconia ciconia",
+                1.1705628675408661
+            ],
+            [
+                "racket, racquet",
+                0.3638241071894299
+            ],
+            [
+                "spoonbill",
+                0.29997423524037004
+            ]
+        ],
+        "scence_8": [
+            [
+                "white stork, Ciconia ciconia",
+                0.6398270284407772
+            ],
+            [
+                "pot, flowerpot",
+                0.22437737890868448
+            ],
+            [
+                "limpkin, Aramus pictus",
+                0.1639797448005993
+            ]
+        ],
+        "scence_9": [
+            [
+                "pot, flowerpot",
+                0.3772105611860752
+            ],
+            [
+                "dam, dike, dyke",
+                0.27250934578478336
+            ],
+            [
+                "grasshopper, hopper",
+                0.2556706331670284
+            ]
+        ],
+        "scence_10": [
+            [
+                "pencil box, pencil case",
+                0.7196977676940151
+            ],
+            [
+                "yurt",
+                0.2282574848359218
+            ],
+            [
+                "monastery",
+                0.14209356263745576
+            ]
+        ],
+        "scence_11": [
+            [
+                "yurt",
+                0.2645239066914655
+            ],
+            [
+                "banded gecko",
+                0.23911879328079522
+            ],
+            [
+                "ruddy turnstone, Arenaria interpres",
+                0.21652367629576474
+            ]
+        ],
+        "scence_12": [
+            [
+                "guillotine",
+                1.4699945260654204
+            ],
+            [
+                "pretzel",
+                0.8713619771588128
+            ],
+            [
+                "monastery",
+                0.3248099294360145
+            ]
+        ],
+        "scence_13": [
+            [
+                "racket, racquet",
+                0.7871514341677539
+            ],
+            [
+                "lionfish",
+                0.1559108972651302
+            ],
+            [
+                "butternut squash",
+                0.08598719316069037
+            ]
+        ],
+        "scence_14": [
+            [
+                "chest",
+                4.119578244513832
+            ],
+            [
+                "knot",
+                1.1528635007562116
+            ],
+            [
+                "racket, racquet",
+                0.6914318756898865
+            ]
+        ],
+        "scence_15": [
+            [
+                "chest",
+                4.154865635558963
+            ],
+            [
+                "racket, racquet",
+                1.646284944145009
+            ],
+            [
+                "knot",
+                0.6946958003100008
+            ]
+        ],
+        "scence_16": [
+            [
+                "chest",
+                4.839019104838371
+            ],
+            [
+                "racket, racquet",
+                0.5986554552364396
+            ],
+            [
+                "axolotl, mud puppy, Ambystoma mexicanum",
+                0.39574781991541386
+            ]
+        ],
+        "scence_17": [
+            [
+                "barbell",
+                2.134521758369374
+            ],
+            [
+                "chest",
+                1.839252746613056
+            ],
+            [
+                "maze, labyrinth",
+                0.31037970213219523
+            ]
+        ],
+        "scence_18": [
+            [
+                "pole",
+                4.542635518026145
+            ],
+            [
+                "velvet",
+                1.5063918792011464
+            ],
+            [
+                "barbell",
+                1.4614463174823413
+            ]
+        ],
+        "scence_19": [
+            [
+                "CD player",
+                4.627001234301133
+            ],
+            [
+                "pole",
+                1.0071767192666812
+            ],
+            [
+                "dial telephone, dial phone",
+                0.2721638901651886
+            ]
+        ],
+        "scence_20": [
+            [
+                "pole",
+                6.17460532230325
+            ],
+            [
+                "CD player",
+                1.7358415557828266
+            ],
+            [
+                "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+                1.682913027205359
+            ]
+        ],
+        "scence_21": [
+            [
+                "pole",
+                7.57387661957182
+            ],
+            [
+                "CD player",
+                0.8822283073022845
+            ],
+            [
+                "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+                0.7717430296324892
+            ]
+        ],
+        "scence_22": [
+            [
+                "sombrero",
+                9.371125961479265
+            ],
+            [
+                "dial telephone, dial phone",
+                6.08104017120786
+            ],
+            [
+                "pole",
+                4.568537960760295
+            ]
+        ],
+        "scence_23": [
+            [
+                "mailbag, postbag",
+                1.8950097340275533
+            ],
+            [
+                "thresher, thrasher, threshing machine",
+                1.6312872810522094
+            ],
+            [
+                "minibus",
+                0.8462631462534773
+            ]
+        ],
+        "scence_24": [
+            [
+                "chest",
+                2.783936397590878
+            ],
+            [
+                "mailbag, postbag",
+                0.8439141175040277
+            ],
+            [
+                "racket, racquet",
+                0.716165252489418
+            ]
+        ],
+        "scence_25": [
+            [
+                "axolotl, mud puppy, Ambystoma mexicanum",
+                2.176539145410061
+            ],
+            [
+                "chest",
+                0.8785553071065806
+            ],
+            [
+                "racket, racquet",
+                0.6810432918427978
+            ]
+        ],
+        "scence_26": [
+            [
+                "maze, labyrinth",
+                16.148437048032065
+            ],
+            [
+                "hummingbird",
+                4.066427939744244
+            ],
+            [
+                "packet",
+                1.5265367157644505
+            ]
+        ],
+        "scence_27": [
+            [
+                "pole",
+                6.899540444515878
+            ],
+            [
+                "dung beetle",
+                6.410648177465191
+            ],
+            [
+                "cuirass",
+                5.021642066116328
+            ]
+        ],
+        "scence_28": [
+            [
+                "pole",
+                39.96575295977527
+            ],
+            [
+                "scale, weighing machine",
+                38.98035298893228
+            ],
+            [
+                "sombrero",
+                27.73515682236757
+            ]
+        ],
+        "scence_29": [
+            [
+                "sombrero",
+                66.42836530762725
+            ],
+            [
+                "soap dispenser",
+                25.29526520485524
+            ],
+            [
+                "pickelhaube",
+                8.59256093885051
+            ]
+        ],
+        "scence_30": [
+            [
+                "rhinoceros beetle",
+                2.4740417701614206
+            ],
+            [
+                "soap dispenser",
+                0.81937866681983
+            ],
+            [
+                "minibus",
+                0.5244409017323051
+            ]
+        ],
+        "scence_31": [
+            [
+                "sombrero",
+                2.262187153872219
+            ],
+            [
+                "pole",
+                1.8038085404259618
+            ],
+            [
+                "scabbard",
+                1.2000127770952531
+            ]
+        ]
+    },
+    "colors": {
+        "scence_1": [
+            [
+                "azure3",
+                853994.0
+            ],
+            [
+                "gray84",
+                460616.0
+            ],
+            [
+                "gray85",
+                388182.0
+            ]
+        ],
+        "scence_2": [
+            [
+                "gray41",
+                25789.0
+            ],
+            [
+                "gray39",
+                24856.0
+            ],
+            [
+                "azure3",
+                19011.0
+            ]
+        ],
+        "scence_3": [
+            [
+                "RosyBrown",
+                95179.0
+            ],
+            [
+                "DarkSlateGray",
+                28505.0
+            ],
+            [
+                "gray7",
+                26063.0
+            ]
+        ],
+        "scence_4": [
+            [
+                "azure3",
+                177442.0
+            ],
+            [
+                "LightCyan3",
+                135502.0
+            ],
+            [
+                "LightSteelBlue3",
+                106857.0
+            ]
+        ],
+        "scence_5": [
+            [
+                "RosyBrown",
+                201112.0
+            ],
+            [
+                "LemonChiffon4",
+                69211.0
+            ],
+            [
+                "burlywood4",
+                62729.0
+            ]
+        ],
+        "scence_6": [
+            [
+                "RosyBrown",
+                36833.0
+            ],
+            [
+                "gray34",
+                24449.0
+            ],
+            [
+                "gray32",
+                21656.0
+            ]
+        ],
+        "scence_7": [
+            [
+                "RosyBrown",
+                64451.0
+            ],
+            [
+                "burlywood4",
+                46418.0
+            ],
+            [
+                "LightSalmon4",
+                40517.0
+            ]
+        ],
+        "scence_8": [
+            [
+                "RosyBrown",
+                13744.0
+            ],
+            [
+                "LightSalmon4",
+                9775.0
+            ],
+            [
+                "burlywood4",
+                9024.0
+            ]
+        ],
+        "scence_9": [
+            [
+                "gray41",
+                9560.0
+            ],
+            [
+                "gray39",
+                8475.0
+            ],
+            [
+                "gray32",
+                7418.0
+            ]
+        ],
+        "scence_10": [
+            [
+                "crimson",
+                34154.0
+            ],
+            [
+                "firebrick",
+                11782.0
+            ],
+            [
+                "burlywood4",
+                10086.0
+            ]
+        ],
+        "scence_11": [
+            [
+                "crimson",
+                22978.0
+            ],
+            [
+                "firebrick",
+                10469.0
+            ],
+            [
+                "DarkSlateGray",
+                8724.0
+            ]
+        ],
+        "scence_12": [
+            [
+                "LightSteelBlue",
+                250042.0
+            ],
+            [
+                "LightSteelBlue3",
+                85400.0
+            ],
+            [
+                "LightSteelBlue2",
+                82309.0
+            ]
+        ],
+        "scence_13": [
+            [
+                "LightSteelBlue",
+                36809.0
+            ],
+            [
+                "seashell4",
+                17210.0
+            ],
+            [
+                "gray58",
+                15921.0
+            ]
+        ],
+        "scence_14": [
+            [
+                "gray15",
+                45706.0
+            ],
+            [
+                "gray16",
+                38973.0
+            ],
+            [
+                "gray18",
+                37276.0
+            ]
+        ],
+        "scence_15": [
+            [
+                "gray13",
+                49089.0
+            ],
+            [
+                "gray14",
+                43720.0
+            ],
+            [
+                "gray15",
+                41963.0
+            ]
+        ],
+        "scence_16": [
+            [
+                "gray20",
+                53724.0
+            ],
+            [
+                "gray23",
+                50082.0
+            ],
+            [
+                "gray22",
+                46042.0
+            ]
+        ],
+        "scence_17": [
+            [
+                "seashell2",
+                52056.0
+            ],
+            [
+                "gray96",
+                37116.0
+            ],
+            [
+                "gray95",
+                30081.0
+            ]
+        ],
+        "scence_18": [
+            [
+                "DarkKhaki",
+                109092.0
+            ],
+            [
+                "gray3",
+                75294.0
+            ],
+            [
+                "gray4",
+                65431.0
+            ]
+        ],
+        "scence_19": [
+            [
+                "goldenrod",
+                64043.0
+            ],
+            [
+                "DarkGoldenrod",
+                59570.0
+            ],
+            [
+                "goldenrod3",
+                55304.0
+            ]
+        ],
+        "scence_20": [
+            [
+                "DarkKhaki",
+                220764.0
+            ],
+            [
+                "burlywood3",
+                157447.0
+            ],
+            [
+                "chocolate4",
+                65018.0
+            ]
+        ],
+        "scence_21": [
+            [
+                "DarkKhaki",
+                216850.0
+            ],
+            [
+                "burlywood3",
+                142717.0
+            ],
+            [
+                "maroon",
+                82906.0
+            ]
+        ],
+        "scence_22": [
+            [
+                "bisque3",
+                421816.0
+            ],
+            [
+                "RosyBrown",
+                327804.0
+            ],
+            [
+                "PeachPuff3",
+                307666.0
+            ]
+        ],
+        "scence_23": [
+            [
+                "gray4",
+                236031.0
+            ],
+            [
+                "gray3",
+                218235.0
+            ],
+            [
+                "gray6",
+                184397.0
+            ]
+        ],
+        "scence_24": [
+            [
+                "LightSalmon4",
+                80117.0
+            ],
+            [
+                "gray3",
+                72125.0
+            ],
+            [
+                "gray4",
+                40252.0
+            ]
+        ],
+        "scence_25": [
+            [
+                "gray9",
+                44010.0
+            ],
+            [
+                "gray10",
+                41953.0
+            ],
+            [
+                "gray11",
+                33582.0
+            ]
+        ],
+        "scence_26": [
+            [
+                "gray14",
+                202030.0
+            ],
+            [
+                "gray15",
+                200285.0
+            ],
+            [
+                "gray16",
+                198239.0
+            ]
+        ],
+        "scence_27": [
+            [
+                "gray9",
+                674761.0
+            ],
+            [
+                "sienna4",
+                637121.0
+            ],
+            [
+                "gray10",
+                624595.0
+            ]
+        ],
+        "scence_28": [
+            [
+                "gray4",
+                1739680.0
+            ],
+            [
+                "gray9",
+                1731284.0
+            ],
+            [
+                "gray7",
+                1720407.0
+            ]
+        ],
+        "scence_29": [
+            [
+                "gray4",
+                1505305.0
+            ],
+            [
+                "gray7",
+                1402438.0
+            ],
+            [
+                "gray9",
+                1366169.0
+            ]
+        ],
+        "scence_30": [
+            [
+                "gray3",
+                795505.0
+            ],
+            [
+                "gray4",
+                196159.0
+            ],
+            [
+                "gray5",
+                190857.0
+            ]
+        ],
+        "scence_31": [
+            [
+                "gray0",
+                681064.0
+            ],
+            [
+                "gray3",
+                59577.0
+            ],
+            [
+                "LightGoldenrod4",
+                55183.0
+            ]
+        ]
+    },
+    "places": {
+        "scence_1": [
+            [
+                "highway",
+                28.754590063588694
+            ],
+            [
+                "desert_road",
+                8.726589990779757
+            ],
+            [
+                "runway",
+                1.1485899906256236
+            ]
+        ],
+        "scence_2": [
+            [
+                "highway",
+                1.2039400446228683
+            ],
+            [
+                "cockpit",
+                0.7856799833825789
+            ],
+            [
+                "car_interior",
+                0.7046600210742326
+            ]
+        ],
+        "scence_3": [
+            [
+                "gas_station",
+                0.713610009290278
+            ],
+            [
+                "raceway",
+                0.5879199989140034
+            ],
+            [
+                "car_interior",
+                0.573690009303391
+            ]
+        ],
+        "scence_4": [
+            [
+                "highway",
+                8.226169927045703
+            ],
+            [
+                "desert_road",
+                2.019820004235953
+            ],
+            [
+                "runway",
+                0.6834099965635687
+            ]
+        ],
+        "scence_5": [
+            [
+                "ice_cream_parlor",
+                7.283609993384744
+            ],
+            [
+                "delicatessen",
+                1.328359992869082
+            ],
+            [
+                "pizzeria",
+                0.9714199940244725
+            ]
+        ],
+        "scence_6": [
+            [
+                "beauty_salon",
+                0.47251999052241445
+            ],
+            [
+                "shopfront",
+                0.35888000921113417
+            ],
+            [
+                "ice_cream_parlor",
+                0.25691000558435917
+            ]
+        ],
+        "scence_7": [
+            [
+                "beauty_salon",
+                4.196069970726967
+            ],
+            [
+                "fastfood_restaurant",
+                0.873479999601841
+            ],
+            [
+                "ice_cream_parlor",
+                0.5547900050878525
+            ]
+        ],
+        "scence_8": [
+            [
+                "beauty_salon",
+                0.5930300056934357
+            ],
+            [
+                "car_interior",
+                0.42927999926541816
+            ],
+            [
+                "fastfood_restaurant",
+                0.22583000437589362
+            ]
+        ],
+        "scence_9": [
+            [
+                "gas_station",
+                0.5449499897658825
+            ],
+            [
+                "car_interior",
+                0.44042999926023185
+            ],
+            [
+                "airplane_cabin",
+                0.21583000477403402
+            ]
+        ],
+        "scence_10": [
+            [
+                "beauty_salon",
+                0.48379000183194876
+            ],
+            [
+                "gas_station",
+                0.35263998806476593
+            ],
+            [
+                "car_interior",
+                0.27333000651560724
+            ]
+        ],
+        "scence_11": [
+            [
+                "gas_station",
+                0.44274001382291317
+            ],
+            [
+                "shoe_shop",
+                0.2628299971111119
+            ],
+            [
+                "car_interior",
+                0.2589800013229251
+            ]
+        ],
+        "scence_12": [
+            [
+                "industrial_area",
+                1.1936699969228357
+            ],
+            [
+                "gas_station",
+                0.8548900233581662
+            ],
+            [
+                "highway",
+                0.5779800009913743
+            ]
+        ],
+        "scence_13": [
+            [
+                "industrial_area",
+                0.2131300033070147
+            ],
+            [
+                "shopfront",
+                0.14968000230146572
+            ],
+            [
+                "beauty_salon",
+                0.14342000187025405
+            ]
+        ],
+        "scence_14": [
+            [
+                "fastfood_restaurant",
+                2.1674699932336807
+            ],
+            [
+                "food_court",
+                1.0207800064235926
+            ],
+            [
+                "beauty_salon",
+                0.7389699834748171
+            ]
+        ],
+        "scence_15": [
+            [
+                "fastfood_restaurant",
+                3.65982997789979
+            ],
+            [
+                "beauty_salon",
+                1.4168899809010327
+            ],
+            [
+                "sushi_bar",
+                0.6705799903720617
+            ]
+        ],
+        "scence_16": [
+            [
+                "fastfood_restaurant",
+                1.4353800043463707
+            ],
+            [
+                "food_court",
+                0.706719993147999
+            ],
+            [
+                "airport_terminal",
+                0.4648400174337439
+            ]
+        ],
+        "scence_17": [
+            [
+                "fastfood_restaurant",
+                0.6535500191384926
+            ],
+            [
+                "food_court",
+                0.5669800024625147
+            ],
+            [
+                "clean_room",
+                0.20999000039228122
+            ]
+        ],
+        "scence_18": [
+            [
+                "beer_hall",
+                1.307840001070872
+            ],
+            [
+                "ice_cream_parlor",
+                1.1800700072199106
+            ],
+            [
+                "delicatessen",
+                1.1100500000757165
+            ]
+        ],
+        "scence_19": [
+            [
+                "ball_pit",
+                0.9040700033074245
+            ],
+            [
+                "candy_store",
+                0.4665100062265992
+            ],
+            [
+                "florist_shop/indoor",
+                0.34538999351207167
+            ]
+        ],
+        "scence_20": [
+            [
+                "ice_cream_parlor",
+                2.403399983420968
+            ],
+            [
+                "delicatessen",
+                1.2826900007203221
+            ],
+            [
+                "fastfood_restaurant",
+                0.8514999961480498
+            ]
+        ],
+        "scence_21": [
+            [
+                "ice_cream_parlor",
+                3.245059966109693
+            ],
+            [
+                "delicatessen",
+                2.064429991703946
+            ],
+            [
+                "beer_hall",
+                1.128700001630932
+            ]
+        ],
+        "scence_22": [
+            [
+                "delicatessen",
+                11.371209934353828
+            ],
+            [
+                "ice_cream_parlor",
+                5.313149981200695
+            ],
+            [
+                "pizzeria",
+                4.058880019932985
+            ]
+        ],
+        "scence_23": [
+            [
+                "highway",
+                4.559330015526939
+            ],
+            [
+                "street",
+                1.6637399902901961
+            ],
+            [
+                "parking_lot",
+                1.3997599971553427
+            ]
+        ],
+        "scence_24": [
+            [
+                "fastfood_restaurant",
+                1.0212999798241071
+            ],
+            [
+                "pharmacy",
+                0.5851000017719343
+            ],
+            [
+                "diner/outdoor",
+                0.5370100059080869
+            ]
+        ],
+        "scence_25": [
+            [
+                "fastfood_restaurant",
+                0.9267399795353413
+            ],
+            [
+                "beauty_salon",
+                0.4597999956458807
+            ],
+            [
+                "ticket_booth",
+                0.32253999821841717
+            ]
+        ],
+        "scence_26": [
+            [
+                "bakery/shop",
+                6.325890004518442
+            ],
+            [
+                "fastfood_restaurant",
+                4.853759985009674
+            ],
+            [
+                "ice_cream_parlor",
+                4.79772997496184
+            ]
+        ],
+        "scence_27": [
+            [
+                "delicatessen",
+                8.402920014690608
+            ],
+            [
+                "pet_shop",
+                6.655790005810559
+            ],
+            [
+                "ice_cream_parlor",
+                6.618670009076595
+            ]
+        ],
+        "scence_28": [
+            [
+                "carrousel",
+                10.60431995545514
+            ],
+            [
+                "laundromat",
+                10.367820010171272
+            ],
+            [
+                "ice_cream_parlor",
+                9.015479982830584
+            ]
+        ],
+        "scence_29": [
+            [
+                "beauty_salon",
+                15.911279956810176
+            ],
+            [
+                "shoe_shop",
+                13.091549966251478
+            ],
+            [
+                "ice_cream_parlor",
+                9.687760015483946
+            ]
+        ],
+        "scence_30": [
+            [
+                "highway",
+                3.9510200181684922
+            ],
+            [
+                "desert_road",
+                0.4857599995448254
+            ],
+            [
+                "parking_lot",
+                0.45483999710995704
+            ]
+        ],
+        "scence_31": [
+            [
+                "home_theater",
+                5.631530036684126
+            ],
+            [
+                "movie_theater/indoor",
+                3.297940016258508
+            ],
+            [
+                "highway",
+                0.3633700005666469
+            ]
+        ]
+    },
+    "semantic scenes": {
+        "scence_1": [
+            [
+                "sky",
+                36.5702379014757
+            ],
+            [
+                "road;route",
+                9.935221354166663
+            ],
+            [
+                "tree",
+                1.2267320421006946
+            ]
+        ],
+        "scence_2": [
+            [
+                "wall",
+                2.368008083767361
+            ],
+            [
+                "sky",
+                1.5710856119791665
+            ],
+            [
+                "clock",
+                0.7842271592881944
+            ]
+        ],
+        "scence_3": [
+            [
+                "wall",
+                1.705254448784722
+            ],
+            [
+                "car;auto;automobile;machine;motorcar",
+                1.5316162109374998
+            ],
+            [
+                "floor;flooring",
+                1.1112399631076388
+            ]
+        ],
+        "scence_4": [
+            [
+                "sky",
+                10.805996365017362
+            ],
+            [
+                "road;route",
+                3.4304267035590277
+            ],
+            [
+                "car;auto;automobile;machine;motorcar",
+                1.3695339626736107
+            ]
+        ],
+        "scence_5": [
+            [
+                "earth;ground",
+                5.472079806857638
+            ],
+            [
+                "food;solid;food",
+                4.809841579861112
+            ],
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                1.1848483615451388
+            ]
+        ],
+        "scence_6": [
+            [
+                "building;edifice",
+                2.811733669704861
+            ],
+            [
+                "earth;ground",
+                1.1013387044270835
+            ],
+            [
+                "food;solid;food",
+                0.42970784505208337
+            ]
+        ],
+        "scence_7": [
+            [
+                "wall",
+                3.2208523220486107
+            ],
+            [
+                "building;edifice",
+                1.9050021701388888
+            ],
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                1.8899943033854165
+            ]
+        ],
+        "scence_8": [
+            [
+                "wall",
+                1.3194580078125
+            ],
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                0.5325249565972222
+            ],
+            [
+                "floor;flooring",
+                0.31521945529513884
+            ]
+        ],
+        "scence_9": [
+            [
+                "wall",
+                0.9222547743055556
+            ],
+            [
+                "building;edifice",
+                0.7083808051215278
+            ],
+            [
+                "column;pillar",
+                0.3847452799479167
+            ]
+        ],
+        "scence_10": [
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                1.5071546766493054
+            ],
+            [
+                "building;edifice",
+                0.7083808051215278
+            ],
+            [
+                "wall",
+                0.6522623697916666
+            ]
+        ],
+        "scence_11": [
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                0.8470458984374999
+            ],
+            [
+                "car;auto;automobile;machine;motorcar",
+                0.7199774848090278
+            ],
+            [
+                "building;edifice",
+                0.7153795030381944
+            ]
+        ],
+        "scence_12": [
+            [
+                "sky",
+                5.329087999131945
+            ],
+            [
+                "building;edifice",
+                1.5594482421875
+            ],
+            [
+                "tree",
+                0.854404025607639
+            ]
+        ],
+        "scence_13": [
+            [
+                "building;edifice",
+                1.4821506076388888
+            ],
+            [
+                "sky",
+                0.6878187391493056
+            ],
+            [
+                "ship",
+                0.2326727973090278
+            ]
+        ],
+        "scence_14": [
+            [
+                "wall",
+                2.6709526909722223
+            ],
+            [
+                "building;edifice",
+                1.4273003472222223
+            ],
+            [
+                "ceiling",
+                0.9843546549479166
+            ]
+        ],
+        "scence_15": [
+            [
+                "wall",
+                4.447964138454862
+            ],
+            [
+                "shelf",
+                1.891913519965278
+            ],
+            [
+                "bar",
+                0.6642659505208334
+            ]
+        ],
+        "scence_16": [
+            [
+                "ceiling",
+                3.800645616319444
+            ],
+            [
+                "wall",
+                2.1145155164930554
+            ],
+            [
+                "building;edifice",
+                0.63983154296875
+            ]
+        ],
+        "scence_17": [
+            [
+                "wall",
+                3.0374281141493054
+            ],
+            [
+                "bulletin;board;notice;board",
+                0.5480143229166666
+            ],
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                0.3527357313368056
+            ]
+        ],
+        "scence_18": [
+            [
+                "table",
+                3.1945665147569446
+            ],
+            [
+                "plate",
+                3.1146647135416665
+            ],
+            [
+                "wall",
+                1.7886895073784723
+            ]
+        ],
+        "scence_19": [
+            [
+                "flower",
+                3.906643337673611
+            ],
+            [
+                "table",
+                0.8685031467013888
+            ],
+            [
+                "plate",
+                0.6470472547743055
+            ]
+        ],
+        "scence_20": [
+            [
+                "plate",
+                6.383348253038195
+            ],
+            [
+                "table",
+                2.3644476996527777
+            ],
+            [
+                "flower",
+                1.966315375434028
+            ]
+        ],
+        "scence_21": [
+            [
+                "plate",
+                6.829637315538194
+            ],
+            [
+                "table",
+                4.364305284288194
+            ],
+            [
+                "food;solid;food",
+                1.2719387478298612
+            ]
+        ],
+        "scence_22": [
+            [
+                "table",
+                8.748596191406248
+            ],
+            [
+                "flower",
+                6.501898871527779
+            ],
+            [
+                "food;solid;food",
+                6.278299967447916
+            ]
+        ],
+        "scence_23": [
+            [
+                "sky",
+                8.5550537109375
+            ],
+            [
+                "road;route",
+                3.266981336805556
+            ],
+            [
+                "tree",
+                2.5296291775173607
+            ]
+        ],
+        "scence_24": [
+            [
+                "building;edifice",
+                4.5345458984375
+            ],
+            [
+                "wall",
+                1.9108479817708335
+            ],
+            [
+                "sky",
+                0.7766655815972223
+            ]
+        ],
+        "scence_25": [
+            [
+                "wall",
+                2.5519883897569446
+            ],
+            [
+                "signboard;sign",
+                1.5465155707465277
+            ],
+            [
+                "building;edifice",
+                0.9254421657986112
+            ]
+        ],
+        "scence_26": [
+            [
+                "bulletin;board;notice;board",
+                22.773708767361114
+            ],
+            [
+                "wall",
+                6.310268825954862
+            ],
+            [
+                "case;display;case;showcase;vitrine",
+                5.10799831814236
+            ]
+        ],
+        "scence_27": [
+            [
+                "wall",
+                58.28179931640625
+            ],
+            [
+                "food;solid;food",
+                27.25550672743056
+            ],
+            [
+                "tray",
+                11.377170138888888
+            ]
+        ],
+        "scence_28": [
+            [
+                "tray",
+                73.97840711805564
+            ],
+            [
+                "plate",
+                43.62571207682292
+            ],
+            [
+                "wall",
+                39.82598198784722
+            ]
+        ],
+        "scence_29": [
+            [
+                "tray",
+                82.63317871093747
+            ],
+            [
+                "wall",
+                65.43535020616318
+            ],
+            [
+                "person;individual;someone;somebody;mortal;soul",
+                17.44002956814237
+            ]
+        ],
+        "scence_30": [
+            [
+                "sky",
+                8.844774034288195
+            ],
+            [
+                "road;route",
+                1.15057373046875
+            ],
+            [
+                "tray",
+                0.6841159396701388
+            ]
+        ],
+        "scence_31": [
+            [
+                "table",
+                4.823242187499999
+            ],
+            [
+                "wall",
+                1.8346489800347223
+            ],
+            [
+                "flower",
+                1.7450086805555558
+            ]
+        ]
+    }
+}
